@@ -1,0 +1,2 @@
+# Python-Temelleri
+Python Temelleri
